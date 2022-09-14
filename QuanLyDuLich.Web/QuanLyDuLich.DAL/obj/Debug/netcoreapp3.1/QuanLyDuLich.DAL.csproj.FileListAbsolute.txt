@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.DAL.deps.json
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.DAL.runtimeconfig.json
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.DAL.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.DAL.dll
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.DAL.pdb
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.dll
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.pdb
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.Common.dll
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\bin\Debug\netcoreapp3.1\QuanLyDuLich.Common.pdb
+C:\Users\ASUS\Desktop\QuanLyDuLich.Web\QuanLyDuLich.DAL\obj\Debug\netcoreapp3.1\QuanLyDuLich.DAL.csproj.CopyComplete
